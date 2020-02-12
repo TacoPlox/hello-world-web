@@ -1,0 +1,14 @@
+/* Color de títulos */
+h1 {
+    color: purple;
+}
+
+/* Elementos rojos */
+.red {
+    color: red;
+}
+
+/* Id Selector */
+#paragraph_three {
+    color: green;
+}
